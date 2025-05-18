@@ -1,8 +1,8 @@
 ---
 layout: post
 title: You're up and running!
-asd: '2025-04-29'
-date: '2025-05-18T00:29:02.796Z'
+asd: 2025-4-1
+date: 2025-5-20
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
