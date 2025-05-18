@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-asd: 2025-4-1
+asd: '2025-04-02'
 date: 2025-5-20
 ---
 
